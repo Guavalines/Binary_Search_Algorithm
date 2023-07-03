@@ -1,4 +1,4 @@
-# BINARY SEARCH ALGORITHM
+# 🔍 BINARY SEARCH ALGORITHM
 
 ## Description
 This performs a binary search algorithm on a sorted list to find the index of a given element, and returns -1 if the element is not in the list.
